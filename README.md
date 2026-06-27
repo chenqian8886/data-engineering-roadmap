@@ -4,14 +4,25 @@
 
 Become a Professional Data Engineer.
 
-## Stack
+## Tech Stack
 
 - Python
 - PostgreSQL
 - Docker
 - AWS
 - SQL
+- Git
 
 ## Progress
 
-- [x] Day1 Environment Setup
+### Day1
+- [x] Development Environment Setup
+- [x] Git Repository Initialization
+- [x] Project Structure Design
+- [x] Documentation Setup
+- [x] Git Basic Workflow
+
+### Next Step
+- [ ] Docker Compose
+- [ ] PostgreSQL
+- [ ] pgAdmin
