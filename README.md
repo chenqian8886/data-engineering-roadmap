@@ -22,7 +22,12 @@ Become a Professional Data Engineer.
 - [x] Documentation Setup
 - [x] Git Basic Workflow
 
-### Next Step
-- [ ] Docker Compose
-- [ ] PostgreSQL
-- [ ] pgAdmin
+### Day2
+- [x] Docker Compose Fundamentals
+- [x] docker-compose.yml Configuration
+- [x] PostgreSQL Environment Setup
+- [x] Container Startup & Verification
+- [x] PostgreSQL Log Analysis
+- [x] Container Access with docker exec
+- [x] PostgreSQL Connection (psql)
+- [x] First SQL Execution
