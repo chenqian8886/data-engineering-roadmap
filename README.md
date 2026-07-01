@@ -31,3 +31,15 @@ Become a Professional Data Engineer.
 - [x] Container Access with docker exec
 - [x] PostgreSQL Connection (psql)
 - [x] First SQL Execution
+
+### Day3
+- [x] PostgreSQL Table Design
+- [x] Primary Key & Foreign Key
+- [x] Data Insertion (INSERT)
+- [x] Data Retrieval (SELECT)
+- [x] Table Join (INNER JOIN)
+- [x] Aggregate Functions (SUM, COUNT, AVG)
+- [x] GROUP BY
+- [x] HAVING
+- [x] ORDER BY
+
