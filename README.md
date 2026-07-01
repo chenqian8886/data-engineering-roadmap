@@ -43,3 +43,9 @@ Become a Professional Data Engineer.
 - [x] HAVING
 - [x] ORDER BY
 
+### Day4
+- [x] Window関数（ROW_NUMBER・RANK・DENSE_RANK）
+- [x] PARTITION BY
+- [x] LAG・LEAD（前月比・次月比分析）
+- [x] WITH句（CTE）
+- [x] 月次売上分析
