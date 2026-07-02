@@ -6,11 +6,11 @@ Become a Professional Data Engineer.
 
 ## Tech Stack
 
-- Python
-- PostgreSQL
 - Docker
-- AWS
-- SQL
+- PostgreSQL 16
+- Python 3.12
+- Pandas
+- psycopg
 - Git
 
 ## Progress
@@ -49,3 +49,17 @@ Become a Professional Data Engineer.
 - [x] LAG・LEAD（前月比・次月比分析）
 - [x] WITH句（CTE）
 - [x] 月次売上分析
+
+### Day5
+- [x] Python Virtual Environment (venv)
+- [x] Python Package Management (pip)
+- [x] requirements.txt
+- [x] PostgreSQL Connection (psycopg)
+- [x] SQL Execution (cursor / execute / fetchall)
+- [x] Create DataFrame with Pandas
+
+### Portfolio
+
+① ETL Pipeline
+② Sales Dashboard
+③ Data Warehouse
