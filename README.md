@@ -58,6 +58,15 @@ Become a Professional Data Engineer.
 - [x] SQL Execution (cursor / execute / fetchall)
 - [x] Create DataFrame with Pandas
 
+### Day6
+- [x] pd.read_sql()
+- [x] DataFrame Basics
+- [x] SELECT
+- [x] WHERE
+- [x] ORDER BY (sort_values)
+- [x] LIMIT (head)
+- [x] SQL ↔ Pandas Comparison
+
 ### Portfolio
 
 ① ETL Pipeline

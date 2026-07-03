@@ -3,7 +3,7 @@ from db.connection import get_connection
 
 conn = get_connection()
 
-print("PostgreSQL Connected!")
+#print("PostgreSQL Connected!")
 
 cur = conn.cursor()
 
