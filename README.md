@@ -67,6 +67,14 @@ Become a Professional Data Engineer.
 - [x] LIMIT (head)
 - [x] SQL ↔ Pandas Comparison
 
+### Day7
+- [x] Pandas merge() (JOIN)
+- [x] Pandas groupby()
+- [x] Aggregate Functions (SUM, AVG, COUNT)
+- [x] ORDER BY (sort_values)
+- [x] HAVING (query)
+- [x] SQL ↔ Pandas Comparison (Aggregation)
+
 ### Portfolio
 
 ① ETL Pipeline
